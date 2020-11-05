@@ -1,4 +1,4 @@
-I know these languages:
+## Programming languages:
 
 * **`C`**
 * **`C++`**
@@ -10,15 +10,6 @@ I know these languages:
 * **`NASM`**
 * **`Shell Script`**
 
-I like these things:
-
-* **`Unicorns`**
-* **`Nuclear Power Plants`**
-
-I hate these things:
-
-* **`S C`**
-* **`Swift`**
-* **`Windows`**
+## My progress
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=enty8080)
