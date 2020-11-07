@@ -12,7 +12,7 @@
 * **`NASM`**
 * **`Shell Script`**
 
-## My best projects
+## My projects
 
 * [**`Ghost Framework`**](https://github.com/EntySec/ghost)
 * [**`Ehtools Framework`**](https://github.com/entynetproject/ehtools)
