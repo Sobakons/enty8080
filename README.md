@@ -14,5 +14,7 @@
 
 ## My best projects
 
-* [**`Unicorn Framework`**](https://github.com/EntySec/unicorn)
 * [**`Ghost Framework`**](https://github.com/EntySec/ghost)
+* [**`Ehtools Framework`**](https://github.com/entynetproject/ehtools)
+* [**`Thoron Framework`**](https://github.com/EntySec/thoron)
+* [**`Unicorn Framework`**](https://github.com/EntySec/unicorn)
