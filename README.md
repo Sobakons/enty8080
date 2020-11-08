@@ -25,4 +25,6 @@
 - [ ] Rewrite Ghost Framework
 - [ ] Update installers, uninstallers and bin files.
 
-[Hi from box]
+<table><tr><th>
+Hi from box?
+</th></tr></table>
