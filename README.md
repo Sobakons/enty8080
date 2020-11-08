@@ -26,5 +26,5 @@
 - [ ] Update installers, uninstallers and bin files.
 
 <table><tr><th>
-Hi from box?
+To achieve something, you need to set a goal and go to it through difficulties and adversities.
 </th></tr></table>
