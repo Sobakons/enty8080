@@ -1,5 +1,3 @@
-## `🍰 Happy Birthday, Ivan! 🍰`
-
 ## Programming languages:
 
 * **`C`**
