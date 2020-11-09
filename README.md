@@ -10,7 +10,7 @@
 * **`GAS`**
 * **`NASM`**
 * **`Shell Script`**
-* **`Apple Script`**
+* **`AppleScript`**
 
 ## My projects
 
