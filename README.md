@@ -21,7 +21,7 @@
 
 ## My TODOs
 
-- [x] Release Unicorn Framework v2.0
+- [x] Release Unicorn Framework v3.0
 - [x] Release ac1d v1.0
 - [ ] Rewrite Ghost Framework
 - [ ] Rewrite Thoron Framework
