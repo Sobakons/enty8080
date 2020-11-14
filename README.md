@@ -24,7 +24,8 @@
 - [x] Release Unicorn Framework v2.0
 - [x] Release ac1d v1.0
 - [ ] Rewrite Ghost Framework
-- [ ] Update installers, uninstallers and bin files.
+- [ ] Rewrite Thoron Framework
+- [x] Update installers, uninstallers and bin files.
 
 <table><tr><th>
 To achieve something, you need to set a goal and go to it through difficulties and adversities.
