@@ -16,8 +16,8 @@
 
 * [**`Ghost Framework`**](https://github.com/EntySec/ghost)
 * [**`Ehtools Framework`**](https://github.com/entynetproject/ehtools)
-* [**`Thoron Framework`**](https://github.com/EntySec/thoron)
 * [**`Unicorn Framework`**](https://github.com/EntySec/unicorn)
+* [**`Cyclone Framework`**](https://github.com/EntySec/cyclone)
 
 ## My TODOs
 
