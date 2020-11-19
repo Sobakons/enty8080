@@ -25,7 +25,7 @@
 - [x] Release ac1d v1.0
 - [x] Release ac1d v2.0
 - [x] Rewrite Ghost Framework
-- [ ] Releare Cyclone Framework
+- [x] Release Cyclone Framework
 - [x] Update installers, uninstallers and bin files.
 
 <table><tr><th>
