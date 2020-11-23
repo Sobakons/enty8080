@@ -26,15 +26,6 @@
 * **`Second Track`** **02 August 2018** - **22 October 2020** (`removed`)
 * **`EntySec`** **20 October 2020** - **~** (`active`)
 
-## My TODOs
-
-- [x] Release Unicorn Framework v3.0
-- [x] Release ac1d v1.0
-- [x] Release ac1d v2.0
-- [x] Rewrite Ghost Framework
-- [x] Release Cyclone Framework
-- [x] Update installers, uninstallers and bin files.
-
 <table><tr><th>
 To achieve something, you need to set a goal and go to it through difficulties and adversities.
 </th></tr></table>
