@@ -21,8 +21,10 @@
 
 ## My organizations
 
-* **`Entynetproject`** **23 June 2018** - **22 October 2020**
-* **`EntySec`** **20 October 2020** - **~**
+* **`Enty8080Legion`** **21 May 2018** - **22 October 2020** (`removed`)
+* **`Entynetproject`** **23 June 2018** - **22 October 2020** (`frozen`)
+* **`Second Track`** **02 August 2018** - **22 October 2020** (`removed`)
+* **`EntySec`** **20 October 2020** - **~** (`active`)
 
 ## My TODOs
 
