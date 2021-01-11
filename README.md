@@ -7,7 +7,6 @@
 * **`Ruby`**
 * **`Objective-C`**
 * **`Objective-C++`**
-* **`GAS`**
 * **`NASM`**
 * **`Shell Script`**
 * **`AppleScript`**
