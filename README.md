@@ -16,7 +16,6 @@ Programming languages I am writing my projects on.
 ## My projects
 
 * [**`Ghost Framework`**](https://github.com/EntySec/ghost)
-* [**`Ehtools Framework`**](https://github.com/entynetproject/ehtools)
 * [**`ZetaSploit Framework`**](https://github.com/EntySec/ZetaSploit)
 
 <table><tr><th>
