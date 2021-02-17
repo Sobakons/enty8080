@@ -20,7 +20,7 @@ https://shadowservants.ru/user/546
 ## My projects:
 
 * [**`Ghost Framework`**](https://github.com/EntySec/ghost)
-* [**`ZetaSploit Framework`**](https://github.com/EntySec/ZetaSploit)
+* [**`HatSploit Framework`**](https://github.com/EntySec/HatSploit)
 
 <table><tr><th>
 To achieve something, you need to set a goal and go to it through difficulties and adversities.
